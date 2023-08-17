@@ -1,0 +1,47 @@
+.chartbox {
+  display: flex;
+  height: 100%;
+
+  .userInfo {
+    justify-content: space-between;
+    display: flex;
+    flex: 3;
+    flex-direction: column;
+    .title {
+      display: flex;
+      align-items: center;
+
+      span {
+        font-size: 14px;
+      }
+    }
+    .link {
+      font-size: 10px;
+    }
+  }
+  .chartInfo {
+    display: flex;
+    flex-direction: column;
+    // justify-content: space-between;
+
+    flex: 2;
+    .chart {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      height: 70%;
+    }
+    .texts {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      text-align: right;
+      span {
+        &:last-child {
+          font-size: 13.5px;
+        }
+      }
+    }
+  }
+}

@@ -206,7 +206,7 @@ export const chartBoxRevenue = {
   color: "teal",
   icon: "/revenueIcon.svg",
   title: "Total Revenue",
-  number: "$56.432",
+  number: "56.432",
   dataKey: "revenue",
   percentage: -12,
   chartData: [
@@ -554,8 +554,6 @@ export const products = [
     inStock: true,
   },
 ];
-
-
 
 export const singleUser = {
   id: 1,
