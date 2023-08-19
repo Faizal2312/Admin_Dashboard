@@ -9,6 +9,8 @@ import Login from "./components/login/Login";
 import "./styles/global.scss";
 import User from "./pages/User/User";
 import Product from "./pages/Product/Product";
+import Orders from "./pages/Orders/Orders";
+import Posts from "./pages/Posts/Posts";
 
 const App = () => {
   const Layout = () => {
@@ -52,6 +54,14 @@ const App = () => {
         {
           path: "/products/:id",
           element: <Product />,
+        },
+        {
+          path: "/orders",
+          element: <Orders />,
+        },
+        {
+          path: "/posts",
+          element: <Posts />,
         },
       ],
     },

@@ -611,27 +611,27 @@ export const singleUser = {
   },
   activities: [
     {
-      text: "John Doe purchased Playstation 5 Digital Edition",
+      text: "User purchased Playstation 5 Digital Edition",
       time: "3 day ago",
     },
     {
-      text: "John Doe added 3 items into their wishlist",
+      text: "User added 3 items into their wishlist",
       time: "1 week ago",
     },
     {
-      text: "John Doe purchased Sony Bravia KD-32w800",
+      text: "User purchased Sony Bravia KD-32w800",
       time: "2 weeks ago",
     },
     {
-      text: "John Doe reviewed a product",
+      text: "User reviewed a product",
       time: "1 month ago",
     },
     {
-      text: "John Doe added 1 items into their wishlist",
+      text: "User added 1 items into their wishlist",
       time: "1 month ago",
     },
     {
-      text: "John Doe reviewed a product",
+      text: "User reviewed a product",
       time: "2 months ago",
     },
   ],
@@ -643,7 +643,7 @@ export const singleProduct = {
   info: {
     ProductId: "Ps5SDF1156d",
     Color: "white",
-    Price: "$250.99",
+    Price: "₹ 54000",
     Producer: "Sony",
     Export: "Japan",
   },
@@ -692,27 +692,27 @@ export const singleProduct = {
   },
   activities: [
     {
-      text: "John Doe purchased Playstation 5 Digital Edition",
+      text: "User purchased Playstation 5 Digital Edition",
       time: "3 day ago",
     },
     {
-      text: "Jane Doe added Playstation 5 Digital Edition into their wishlist",
+      text: "User added Playstation 5 Digital Edition into their wishlist",
       time: "1 week ago",
     },
     {
-      text: "Mike Doe purchased Playstation 5 Digital Edition",
+      text: "User 2 purchased Playstation 5 Digital Edition",
       time: "2 weeks ago",
     },
     {
-      text: "Anna Doe reviewed the product",
+      text: "User 3 reviewed the product",
       time: "1 month ago",
     },
     {
-      text: "Michael Doe added Playstation 5 Digital Edition into their wishlist",
+      text: "User 4 added Playstation 5 Digital Edition into their wishlist",
       time: "1 month ago",
     },
     {
-      text: "Helen Doe reviewed the product",
+      text: "User 5 reviewed the product",
       time: "2 months ago",
     },
   ],

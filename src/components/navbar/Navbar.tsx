@@ -20,7 +20,7 @@ const Navbar = () => {
             src="https://images.pexels.com/photos/17794993/pexels-photo-17794993/free-photo-of-fashion-man-people-woman.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
             alt=""
           />
-          <span>Jane</span>
+          <span>User</span>
         </div>
         <img src="/settings.svg" alt="" />
       </div>
