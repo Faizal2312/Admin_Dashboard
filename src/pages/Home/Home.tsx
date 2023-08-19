@@ -1,6 +1,6 @@
 import ChartBox from "../../components/chartBox/ChartBox";
 import TopBox from "../../components/topBox/TopBox";
-import BarchartBox from "../../components/barChartBox/barChartBox";
+import BarchartBox from "../../components/barChartBox/BarChartBox";
 import {
   chartBoxUser,
   chartBoxProduct,

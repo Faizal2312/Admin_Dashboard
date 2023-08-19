@@ -8,7 +8,7 @@ type Props = {
 };
 
 const Add = (props: Props) => {
-  const handleSubmit = (e) => {
+  const handleSubmit = (e: any) => {
     e.preventDefault();
   };
 

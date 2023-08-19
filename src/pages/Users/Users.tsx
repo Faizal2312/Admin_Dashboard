@@ -2,11 +2,7 @@ import DataTable from "../../components/dataTable/DataTable";
 import { userRows } from "../../data";
 import { useState } from "react";
 import "./Users.scss";
-import {
-  GridColDef,
-  GridValueGetterParams,
-  GridToolbar,
-} from "@mui/x-data-grid";
+import { GridColDef } from "@mui/x-data-grid";
 import Add from "../../components/add/Add";
 
 const Users = () => {
