@@ -560,11 +560,11 @@ export const singleUser = {
   title: "John Doe",
   img: "https://images.pexels.com/photos/17397364/pexels-photo-17397364.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
   info: {
-    username: "Johndoe99",
-    fullname: "John Doe",
-    email: "johndoe@gmail.com",
-    phone: "123 456 789",
-    status: "verified",
+    Username: "Johndoe99",
+    Fullname: "John Doe",
+    Email: "johndoe@gmail.com",
+    Phone: "123 456 789",
+    Status: "verified",
   },
   chart: {
     dataKeys: [
@@ -641,11 +641,11 @@ export const singleProduct = {
   title: "Playstation 5 Digital Edition",
   img: "https://store.sony.com.au/on/demandware.static/-/Sites-sony-master-catalog/default/dw1b537bbb/images/PLAYSTATION5W/PLAYSTATION5W.png",
   info: {
-    productId: "Ps5SDF1156d",
-    color: "white",
-    price: "$250.99",
-    producer: "Sony",
-    export: "Japan",
+    ProductId: "Ps5SDF1156d",
+    Color: "white",
+    Price: "$250.99",
+    Producer: "Sony",
+    Export: "Japan",
   },
   chart: {
     dataKeys: [
